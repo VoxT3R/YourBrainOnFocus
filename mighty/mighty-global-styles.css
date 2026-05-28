@@ -1,0 +1,6 @@
+:root {
+  --mighty-theme-color: #383838;
+}
+
+/** Interactive Body Font **/
+body { font-family: "Inter" }
